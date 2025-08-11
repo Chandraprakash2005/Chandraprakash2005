@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chandra!
+# Hi there 👋, I'm Chandraprakash!
 
 Welcome to my GitHub profile! I'm a passionate developer and student interested in building innovative projects and learning new technologies.
 
@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer and student interested 
 Here are some projects I’m working on or have completed:
 
 - 🏥 **Hospital Management System** – Netbeans + Oracle DB
-- 🛍️ **Smart Marketplace - Agronova ** – TailwindCSS + Supabase + JavaScript
-- ✈️ **visual Scrib ** – lovable project (typescript + supabase)  
+- 🛍️ **Smart Marketplace - Agronova** – TailwindCSS + Supabase + JavaScript
+- ✈️ **visual Scrib** – lovable project (typescript + supabase)  
 - 🤖 **Algorithm Lab Programs** – DAA assignments (Stable Matching, Quicksort, Graph Algorithms)
 
 ## 📚 Currently Learning
