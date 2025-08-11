@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer and student interested 
 - 💻 Languages: Java, Python, C++, SQL
 - 🌐 Web: HTML, CSS, JavaScript, TailwindCSS
 - 🧠 Backend: Supabase, Firebase, Node.js
-- 🛠️ Tools: Git, GitHub, NetBeans, VS Code, Lovable
+- 🛠️ Tools: Git, GitHub, NetBeans, VS Code, Lovable, Android Studio
 - 🗃️ Databases: Oracle, MySQL, Supabase, Firebase
 
 ## 🚀 Projects
@@ -29,8 +29,7 @@ Here are some projects I’m working on or have completed:
 ## 📫 How to reach me
 
 - 📧 Email: [dayanchand307@example.com]
-- 💼 LinkedIn: (https://linkedin.com/in/)
-- 📝 Portfolio (optional): [Your Portfolio URL]
+- 💼 LinkedIn: ([https://linkedin.com/in/](https://www.linkedin.com/in/chandraprakash-k-8707032a0/))
 
 ## 🏆 GitHub Stats
 
