@@ -170,7 +170,7 @@
 
 ### 💪 System — Calisthenics & Nutrition Ecosystem
 
-**Flutter • SQLite • Health Connect • FastAPI**
+**Flutter • SQLite • Health Connect**
 
 * Cross-platform fitness and nutrition application
 * Tracks workouts, progress, sleep and custom skills
@@ -218,8 +218,6 @@
 ---
 
 ## 🧩 DSA & Problem Solving
-
-Currently practicing:
 
 * Arrays & Strings
 * Hashing
