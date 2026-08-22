@@ -30,7 +30,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="600px">
 
 ### 🚀 What I Do
 
@@ -54,7 +54,7 @@
 
 </td>
 
-<td width="45%">
+<td width="400px">
 
 ### ⚡ Currently Exploring
 
