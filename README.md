@@ -243,13 +243,8 @@ Currently practicing:
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" />
-</p>
-
-<p align="center">
   <img src="./profile/top-langs.svg" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
