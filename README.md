@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="500px">
 
 ### 🚀 What I Do
 
@@ -48,7 +48,7 @@
 
 </td>
 
-<td width="45%">
+<td width="300px">
 
 ### ⚡ Currently Exploring
 
