@@ -239,15 +239,15 @@ Currently practicing:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandraprakash2005&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="./profile/stats.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandraprakash2005&theme=tokyonight&hide_border=true" />
+  <img src="./profile/streak.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandraprakash2005&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile/top-langs.svg" />
 </p>
 
 ---
