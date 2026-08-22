@@ -1,34 +1,40 @@
 <!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,35:0072FF,70:7F00FF,100:FF00CC&height=230&section=header&text=CHANDRAPRAKASH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,35:0072FF,70:7F00FF,100:FF00CC&height=230&section=header&text=CHANDRAPRAKASH.K&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">
-  Hey 👋 I'm Chandraprakash
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Hey, I'm Chandraprakash K
 </h1>
 
 <p align="center">
   <strong>Full Stack Developer · Flutter Developer · AI/ML Explorer</strong>
 </p>
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/chandraprakash-k-8707032a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:dayanchand307@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Chandraprakash2005&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+Real-World+Applications;React+%7C+Spring+Boot+%7C+Flutter;AI%2FML+%7C+LLMs+%7C+RAG;DSA+%7C+System+Design;Game+Development+%7C+3D+Modeling"/>
 </p>
 
----
+<!-- ===================== ABOUT ===================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="500px">
+<td width="55%">
 
 ### 🚀 What I Do
 
-🎓 CSE  Final Year student at **SSN**
+🎓 CSE Final Year student at **SSN**
 
 💻 Build **full-stack & mobile applications**
 
@@ -48,7 +54,7 @@
 
 </td>
 
-<td width="300px">
+<td width="45%">
 
 ### ⚡ Currently Exploring
 
@@ -62,11 +68,17 @@ Game Development
 3D / Interactive Experiences
 ```
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+</p>
+
 </td>
 </tr>
 </table>
 
----
+<!-- ===================== EXPERIENCE ===================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 💼 Experience
 
@@ -76,91 +88,86 @@ Game Development
 
 > **Developed and deliver interactive digital applications for the Madurai Gandhi Memorial Museum**.
 
-| Responsibility  | Contribution                                                                       |
-| --------------- | ---------------------------------------------------------------------------------- |
-| 👥 Leadership   | Led a team of 3 throughout the project                                             |
-| 🎨 Development  | Developed the project alongside the team                                           |
-| 🧊 Assets       | Coordinated 3D / visual asset generation and content contributions                 |
-| 🤝 Stakeholders | Directly communicated with museum stakeholders to gather requirements and feedback |
-| 🔄 Integration  | Independently handled and synchronized multiple project modules                    |
-| 🚀 Deployment   | Managed testing, debugging, integration and kiosk deployment                       |
+| &nbsp; | Responsibility   | Contribution                                                                       |
+| :----: | :--------------- | :--------------------------------------------------------------------------------- |
+|   👥   | **Leadership**   | Led a team of 3 throughout the project                                             |
+|   🎨   | **Development**  | Developed the project alongside the team                                           |
+|   🧊   | **Assets**       | Coordinated 3D / visual asset generation and content contributions                 |
+|   🤝   | **Stakeholders** | Directly communicated with museum stakeholders to gather requirements and feedback |
+|   🔄   | **Integration**  | Independently handled and synchronized multiple project modules                    |
+|   🚀   | **Deployment**   | Managed testing, debugging, integration and kiosk deployment                       |
 
----
+<!-- ===================== TECH STACK ===================== -->
 
-# 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript&theme=dark&perline=8" />
+  </a>
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend & Mobile
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,flutter,html,css,tailwind&theme=dark&perline=8" />
+  </a>
 </p>
 
 ### ⚙️ Backend
 
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express&theme=dark&perline=8" />
+  </a>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Cloud
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,redis&theme=dark&perline=8" />
+  </a>
 </p>
 
 ### 🤖 AI / ML
 
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+  </a>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
 </p>
 
 ### ☁️ DevOps & Tools
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,figma,rabbitmq&theme=dark&perline=8" />
+  </a>
 </p>
 
 ### 🎮 Creative & Interactive
 
-<p>
-<img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" />
+  </a>
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
 </p>
 
----
+<!-- ===================== PROJECTS ===================== -->
 
-# 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -170,13 +177,16 @@ Game Development
 
 **Smart Interview Platform**
 
-`React` `Spring Boot` `MongoDB` `LLM`
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM-7C3AED?style=flat-square"/>
+</p>
 
 Full-stack HRTech platform for intelligent interviews with candidate and interviewer workflows.
 
-🏆 **Top 5 — Citi Hackathon**
-
-**500+ teams**
+🏆 **Top 5 — Citi Hackathon · 500+ teams**
 
 </td>
 
@@ -186,7 +196,12 @@ Full-stack HRTech platform for intelligent interviews with candidate and intervi
 
 **AI-Powered Mobility System**
 
-`Python` `Raspberry Pi` `Flask` `AI Voice Assitance`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Voice-00C6FF?style=flat-square"/>
+</p>
 
 Autonomous navigation system with obstacle avoidance, voice interaction, sensor fusion and guardian monitoring.
 
@@ -200,7 +215,12 @@ Autonomous navigation system with obstacle avoidance, voice interaction, sensor 
 
 **Digital Interactive Experience**
 
-`HTML` `CSS` `javaScript` `Electron.Js`
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+</p>
 
 Interactive Tamil Nadu historical map and digital experiences developed for museum kiosk deployment.
 
@@ -212,7 +232,12 @@ Interactive Tamil Nadu historical map and digital experiences developed for muse
 
 **Lost & Found Platform**
 
-`React` `Spring Boot` `MongoDB` `Supabase` `Cloudinary` `Docker`
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 Full-stack platform for reporting, discovering and managing lost and found items.
 
@@ -226,7 +251,11 @@ Full-stack platform for reporting, discovering and managing lost and found items
 
 **Calisthenics & Nutrition**
 
-`Flutter` `SQLite` `Health Connect`
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Health_Connect-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
 
 Fitness Platform for workout tracking, nutrition, sleep, progress and Health Connect integration.
 
@@ -238,28 +267,30 @@ Fitness Platform for workout tracking, nutrition, sleep, progress and Health Con
 
 **AI Ad Creative Engine**
 
-`FastAPI` `LangGraph` `React` `Docker`
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 Multi-agent AI system for automated advertising creative generation.
 
-🏆 **Impact Nexus Winner**
-
-🥇 **1st / 265 teams**
+🏆 **Impact Nexus Winner · 🥇 1st / 265 teams**
 
 </td>
 </tr>
 </table>
 
----
+<!-- ===================== ACHIEVEMENTS ===================== -->
 
-# 🏆 Achievements
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🏆 Achievements
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/🏆%20Impact%20Nexus-1st%20Place-FFD700?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/🏆%20Impact%20Nexus-1st%20Place-FFD700?style=for-the-badge"/>&nbsp;
 <img src="https://img.shields.io/badge/🔥%20Citi%20Hackathon-Top%205-7C3AED?style=for-the-badge"/>
-
 </p>
 
 <table align="center">
@@ -286,51 +317,87 @@ Multi-agent AI system for automated advertising creative generation.
 </tr>
 </table>
 
----
+<!-- ===================== DSA ===================== -->
 
-# 🧠 DSA & Problem Solving
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🧠 DSA & Problem Solving
 
 <p align="center">
-
-`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window`
-
-`Binary Search` · `Recursion` · `Backtracking` · `Dynamic Programming`
-
-`Linked Lists` · `Stacks` · `Queues` · `Trees` · `Graphs` · `Greedy`
-
+<code>Arrays</code> · <code>Strings</code> · <code>Hashing</code> · <code>Two Pointers</code> · <code>Sliding Window</code>
+<br/><br/>
+<code>Binary Search</code> · <code>Recursion</code> · <code>Backtracking</code> · <code>Dynamic Programming</code>
+<br/><br/>
+<code>Linked Lists</code> · <code>Stacks</code> · <code>Queues</code> · <code>Trees</code> · <code>Graphs</code> · <code>Greedy</code>
 </p>
 
----
+<!-- ===================== LEARNING ===================== -->
 
-# 📚 Currently Learning
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📚 Currently Learning
 
 <table align="center">
 <tr>
-<td align="center">🏗️<br><b>System Design</b></td>
-<td align="center">🤖<br><b>LLMs & RAG</b></td>
-<td align="center">📱<br><b>Game Development Unreal</b></td>
-<td align="center"><br><b>3D Modeling</b></td>
-<td align="center">🌐<br><b>Scalable Systems</b></td>
+<td align="center" width="130">🏗️<br/><b>System Design</b></td>
+<td align="center" width="130">🤖<br/><b>LLMs & RAG</b></td>
+<td align="center" width="130">🎮<br/><b>Unreal Engine</b></td>
+<td align="center" width="130">🧊<br/><b>3D Modeling</b></td>
+<td align="center" width="130">🌐<br/><b>Scalable Systems</b></td>
 </tr>
 </table>
 
+<!-- ===================== STATS ===================== -->
 
-# 🌐 Connect
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📈 GitHub Analytics
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/chandraprakash-k-8707032a0/">
-<img src="https://img.shields.io/badge/LinkedIn-Chandraprakash-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chandraprakash2005&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="495"/>
 </p>
 
----
+<p align="center">
+  <img src="./profile/stats.svg" width="495"/>
+</p>
 
 <p align="center">
+  <img src="./profile/top-langs.svg" width="350"/>
+</p>
 
-### 💡 Build. Break. Learn. Repeat.
+<p align="center">
+  <img src="./profile/contributions.svg" width="600"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=140&section=footer"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandraprakash2005&theme=tokyo-night&hide_border=true&area=true&radius=10" width="95%"/>
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</p>
+
+<!-- ===================== CONNECT ===================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chandraprakash-k-8707032a0/"><img src="https://img.shields.io/badge/LinkedIn-Chandraprakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:dayanchand307@gmail.com"><img src="https://img.shields.io/badge/Email-dayanchand307@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<br/>
+
+<p align="center">
+  <b><i>💡 "Necessity is the mother of invention."</i></b>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,35:0072FF,70:7F00FF,100:FF00CC&height=140&section=footer"/>
 </p>
