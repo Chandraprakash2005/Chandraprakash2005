@@ -9,13 +9,14 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  stats:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
+      # Official GitHub Stats cards
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -32,10 +33,106 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit stats
+      # Get GitHub's actual contribution total
+      - name: Get contribution count
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          FROM_DATE=$(date -u -d "1 year ago" +"%Y-%m-%dT%H:%M:%SZ")
+          TO_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+
+          QUERY='
+          query($login: String!, $from: DateTime!, $to: DateTime!) {
+            user(login: $login) {
+              contributionsCollection(from: $from, to: $to) {
+                contributionCalendar {
+                  totalContributions
+                }
+              }
+            }
+          }'
+
+          RESPONSE=$(gh api graphql \
+            -f query="$QUERY" \
+            -f login="Chandraprakash2005" \
+            -f from="$FROM_DATE" \
+            -f to="$TO_DATE")
+
+          TOTAL=$(echo "$RESPONSE" | jq -r '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+
+          echo "Total contributions: $TOTAL"
+          echo "TOTAL_CONTRIBUTIONS=$TOTAL" >> "$GITHUB_ENV"
+
+      # Create custom contribution card
+      - name: Create contribution card
+        run: |
+          mkdir -p profile
+
+          cat > profile/contributions.svg <<EOF
+          <svg width="600" height="180" viewBox="0 0 600 180" xmlns="http://www.w3.org/2000/svg">
+            <rect width="600" height="180" rx="12" fill="#1f2330"/>
+
+            <text x="30" y="45"
+                  font-family="Arial, sans-serif"
+                  font-size="25"
+                  font-weight="bold"
+                  fill="#70a5fd">
+              Chandraprakash K's GitHub Activity
+            </text>
+
+            <text x="30" y="95"
+                  font-family="Arial, sans-serif"
+                  font-size="20"
+                  fill="#58a6ff">
+              📈 Total Contributions
+            </text>
+
+            <text x="30" y="135"
+                  font-family="Arial, sans-serif"
+                  font-size="34"
+                  font-weight="bold"
+                  fill="#ffffff">
+              ${TOTAL_CONTRIBUTIONS}
+            </text>
+
+            <text x="210" y="130"
+                  font-family="Arial, sans-serif"
+                  font-size="16"
+                  fill="#8b949e">
+              in the last year
+            </text>
+
+            <circle cx="510" cy="100" r="50"
+                    fill="none"
+                    stroke="#30363d"
+                    stroke-width="10"/>
+
+            <circle cx="510" cy="100" r="50"
+                    fill="none"
+                    stroke="#58a6ff"
+                    stroke-width="10"
+                    stroke-linecap="round"
+                    stroke-dasharray="220 100"
+                    transform="rotate(-90 510 100)"/>
+
+            <text x="510" y="110"
+                  text-anchor="middle"
+                  font-family="Arial, sans-serif"
+                  font-size="25"
+                  font-weight="bold"
+                  fill="#58a6ff">
+              C
+            </text>
+          </svg>
+          EOF
+
+      - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/
+
           git commit -m "Update GitHub stats" || exit 0
+
           git push
