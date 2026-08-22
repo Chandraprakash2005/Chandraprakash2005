@@ -396,9 +396,9 @@ Multi-agent AI system for automated advertising creative generation.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/main/profile-3d-contrib/profile-night-green-animate.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/main/profile-3d-contrib/profile-green-animate.svg?v=1">
-    <img alt="github 3d contribution graph" src="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/main/profile-3d-contrib/profile-night-green-animate.svg?v=1" width="95%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/output/profile-3d-contrib/profile-green-animate.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/output/profile-3d-contrib/profile-green-animate.svg?v=1">
+    <img alt="github 3d contribution graph" src="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/output/profile-3d-contrib/profile-green-animate.svg?v=1" width="95%">
   </picture>
 </p>
 
