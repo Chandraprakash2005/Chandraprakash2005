@@ -18,10 +18,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKENS }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated 3d contribution graph"
-          git push
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.PAT_TOKENS }}
+          publish_dir: ./profile-3d-contrib
+          publish_branch: output
+          destination_dir: profile-3d-contrib
+          keep_files: true
