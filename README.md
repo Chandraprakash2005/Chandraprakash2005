@@ -103,65 +103,60 @@ Game Development
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript&theme=dark&perline=8" />
-  </a>
-</p>
-
-### 🌐 Frontend & Mobile
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,flutter,html,css,tailwind&theme=dark&perline=8" />
-  </a>
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express&theme=dark&perline=8" />
-  </a>
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,redis&theme=dark&perline=8" />
-  </a>
-</p>
-
-### 🤖 AI / ML
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-  </a>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-</p>
-
-### ☁️ DevOps & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,figma,rabbitmq&theme=dark&perline=8" />
-  </a>
-</p>
-
-### 🎮 Creative & Interactive
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" />
-  </a>
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="140"><b>💻 Languages</b></td>
+<td align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,python,javascript&theme=dark" /></a>
+</td>
+</tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+<td align="center"><b>🌐 Frontend</b></td>
+<td align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,flutter,html,css,tailwind&theme=dark" /></a>
+</td>
+</tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express&theme=dark" /></a>
+</td>
+</tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+<td align="center"><b>🗄️ Database</b></td>
+<td align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,redis&theme=dark" /></a>
+</td>
+</tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+<td align="center"><b>🤖 AI / ML</b></td>
+<td align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></a>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+</td>
+</tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+<td align="center"><b>☁️ DevOps</b></td>
+<td align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,figma,rabbitmq&theme=dark" /></a>
+</td>
+</tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+<td align="center"><b>🎮 Creative</b></td>
+<td align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" /></a>
+<img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 <!-- ===================== PROJECTS ===================== -->
 
@@ -304,7 +299,6 @@ Multi-agent AI system for automated advertising creative generation.
 **265 Teams**
 
 </td>
-
 <td align="center">
 
 ### 🔥 Top 5
@@ -323,14 +317,40 @@ Multi-agent AI system for automated advertising creative generation.
 
 ## 🧠 DSA & Problem Solving
 
-<p align="center">
-<code>Arrays</code> · <code>Strings</code> · <code>Hashing</code> · <code>Two Pointers</code> · <code>Sliding Window</code>
-<br/><br/>
-<code>Binary Search</code> · <code>Recursion</code> · <code>Backtracking</code> · <code>Dynamic Programming</code>
-<br/><br/>
-<code>Linked Lists</code> · <code>Stacks</code> · <code>Queues</code> · <code>Trees</code> · <code>Graphs</code> · <code>Greedy</code>
-</p>
-
+<table align="center">
+<tr>
+<td align="center"><b>Core Concepts</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Arrays-1A1A1A?style=for-the-badge&logo=codeforces&logoColor=00C6FF"/>
+<img src="https://img.shields.io/badge/Strings-1A1A1A?style=for-the-badge&logo=codeforces&logoColor=00C6FF"/>
+<img src="https://img.shields.io/badge/Hashing-1A1A1A?style=for-the-badge&logo=codeforces&logoColor=00C6FF"/>
+<img src="https://img.shields.io/badge/Two_Pointers-1A1A1A?style=for-the-badge&logo=codeforces&logoColor=00C6FF"/>
+<img src="https://img.shields.io/badge/Sliding_Window-1A1A1A?style=for-the-badge&logo=codeforces&logoColor=00C6FF"/>
+</td>
+</tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+<td align="center"><b>Algorithms</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Binary_Search-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FF9800"/>
+<img src="https://img.shields.io/badge/Recursion-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FF9800"/>
+<img src="https://img.shields.io/badge/Backtracking-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FF9800"/>
+<img src="https://img.shields.io/badge/Dynamic_Programming-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FF9800"/>
+<img src="https://img.shields.io/badge/Greedy-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FF9800"/>
+</td>
+</tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+<td align="center"><b>Data Structures</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Linked_Lists-1A1A1A?style=for-the-badge&logo=hackerrank&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Stacks-1A1A1A?style=for-the-badge&logo=hackerrank&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Queues-1A1A1A?style=for-the-badge&logo=hackerrank&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Trees-1A1A1A?style=for-the-badge&logo=hackerrank&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Graphs-1A1A1A?style=for-the-badge&logo=hackerrank&logoColor=00E676"/>
+</td>
+</tr>
+</table>
 <!-- ===================== LEARNING ===================== -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -355,27 +375,34 @@ Multi-agent AI system for automated advertising creative generation.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Chandraprakash2005&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="495"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandraprakash2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="495"/>
 </p>
 
 <p align="center">
-  <img src="./profile/stats.svg" width="495"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandraprakash2005&layout=donut&theme=tokyonight&hide_border=true" width="350"/>
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" width="350"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandraprakash2005&theme=tokyo-night&hide_border=true&area=true&radius=10&animation=true" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="./profile/contributions.svg" width="600"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/output/github-contribution-grid-snake-dark.svg?v=1" width="95%">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandraprakash2005&theme=tokyo-night&hide_border=true&area=true&radius=10" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/main/profile-3d-contrib/profile-night-green-animate.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/main/profile-3d-contrib/profile-green-animate.svg?v=1">
+    <img alt="github 3d contribution graph" src="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/main/profile-3d-contrib/profile-night-green-animate.svg?v=1" width="95%">
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chandraprakash2005/Chandraprakash2005/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</p>
+
 
 <!-- ===================== CONNECT ===================== -->
 
